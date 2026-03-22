@@ -1,93 +1,94 @@
 # 🌐 HTML Projects
 
-Um repositório dedicado ao armazenamento de projetos em **HTML puro** e atividades de certificação do **freeCodeCamp** em HTML.
+A repository dedicated to storing **pure HTML projects** and **freeCodeCamp** certification activities in HTML.
 
-## 📋 Descrição
+## 📋 Description
 
-Este repositório contém uma coleção de projetos e exercícios práticos desenvolvidos com HTML, desde os fundamentos até projetos mais complexos. Inclui atividades de certificação da plataforma freeCodeCamp que cobrem desde tags básicas até estruturas semânticas avançadas.
+This repository contains a collection of practical projects and exercises developed with HTML, from the basics to more complex projects. It includes freeCodeCamp certification activities that cover from basic tags to advanced semantic structures.
 
-## 🎯 Objetivo
+## 🎯 Objective
 
-- 📚 Documentar o aprendizado progressivo em HTML
-- 🏆 Registrar conclusão das atividades de certificação do freeCodeCamp
-- 💼 Manter um portfólio de projetos web básicos
-- 🔄 Servir como referência para boas práticas em HTML
+- 📚 Document progressive learning in HTML
+- 🏆 Register completion of freeCodeCamp certification activities
+- 💼 Maintain a portfolio of basic web projects
+- 🔄 Serve as a reference for HTML best practices
 
-## 📂 Estrutura do Repositório
+## 📂 Repository Structure
 
 ```
 html-projects/
 ├── freeCodeCamp/
 │   ├── responsive-web-design/
 │   └── ...
-├── projetos-pessoais/
-│   ├── projeto-01/
-│   ├── projeto-02/
+├── personal-projects/
+│   ├── project-01/
+│   ├── project-02/
 │   └── ...
-|-- images/
-|   └── ...
-└── exercicios/
-    └── ...
+|└── exercises/
+|    └── ...
+|--  images/
+|    └── ...    
 ```
 
-## 🚀 Conteúdo
+## 🚀 Content
 
-- **Fundamentos HTML**: Tags básicas, estrutura semântica, formulários
-- **Responsividade**: Designs adaptáveis e boas práticas CSS integradas
-- **Projetos Práticos**: Websites simples, landing pages e portfólios
-- **Certificações freeCodeCamp**: Projetos obrigatórios de conclusão
+- **HTML Fundamentals**: Basic tags, semantic structure, forms
+- **Responsiveness**: Adaptive designs and integrated CSS best practices
+- **Practical Projects**: Simple websites, landing pages and portfolios
+- **freeCodeCamp Certifications**: Required completion projects
 
-## 🛠️ Tecnologias
+## 🛠️ Technologies
 
 - ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat&logo=html5&logoColor=white)
 - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-## 📖 Como Usar
+## 📖 How to Use
 
-1. **Clone o repositório**:
+1. **Clone the repository**:
    ```bash
    git clone https://github.com/m-m-legend/html-projects.git
    ```
 
-2. **Navegue até o projeto desejado**:
+2. **Navigate to the desired project**:
    ```bash
-   cd html-projects/seu-projeto
+   cd html-projects/your-project
    ```
 
-3. **Abra o arquivo HTML no navegador**:
-   - Duplo clique no arquivo `.html`, ou
-   - Clique direito → "Abrir com" → Navegador preferido
+3. **Open the HTML file in your browser**:
+   - Double-click the `.html` file, or
+   - Right-click → "Open with" → Your preferred browser
 
-## 📚 Projetos Destacados
+## 📚 Featured Projects
 
-- **Responsive Web Design Challenge** - Projetos obrigatórios do freeCodeCamp
+- **[List the main projects in the repository here]**
+- **Responsive Web Design Challenge** - Required freeCodeCamp projects
 
-## 🎓 Certificações
+## 🎓 Certifications
 
-- ✅ freeCodeCamp - Responsive Web Design (em progresso)
+- ✅ freeCodeCamp - Responsive Web Design (or the certification you completed)
 
-## 💡 Aprendizados Principais
+## 💡 Key Learnings
 
-- Semântica HTML5
-- Estrutura e organização de código
-- Acessibilidade web
-- Formulários e validação básica
-- Integração com CSS
+- HTML5 semantics
+- Code structure and organization
+- Web accessibility
+- Forms and basic validation
+- CSS integration
 
-## 🤝 Contribuição
+## 🤝 Contribution
 
-Este é um repositório pessoal de aprendizado. Sugestões e melhorias são bem-vindas através de issues ou pull requests.
+This is a personal learning repository. Suggestions and improvements are welcome through issues or pull requests.
 
-## 📄 Licença
+## 📄 License
 
-Este projeto está sob a licença [MIT](LICENSE) - sinta-se livre para usar como referência ou base para seus próprios projetos.
+This project is under the [MIT](LICENSE) license - feel free to use it as a reference or basis for your own projects.
 
-## 📞 Contato
+## 📞 Contact
 
 - GitHub: [@m-m-legend](https://github.com/m-m-legend)
 - Email: [nintendo_64m@outlook.com]
 
 ---
 
-**Última atualização**: 2026  
-**Status**: Em desenvolvimento ativo
+**Last update**: 2026  
+**Status**: Active development
