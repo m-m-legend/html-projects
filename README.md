@@ -60,7 +60,6 @@ html-projects/
 
 ## 📚 Featured Projects
 
-- **[List the main projects in the repository here]**
 - **Responsive Web Design Challenge** - Required freeCodeCamp projects
 
 ## 🎓 Certifications
