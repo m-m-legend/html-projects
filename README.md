@@ -64,7 +64,7 @@ html-projects/
 
 ## 🎓 Certifications
 
-- ✅ freeCodeCamp - Responsive Web Design (or the certification you completed)
+- ✅ freeCodeCamp - Responsive Web Design (ongoing)
 
 ## 💡 Key Learnings
 
